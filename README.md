@@ -1,5 +1,9 @@
 # Approval Tests Utility Kata
 
+## Background
+
+What are [Approval Tests](https://approvaltests.com/)?
+
 ## Context
 
 - How to test a testing utility?
